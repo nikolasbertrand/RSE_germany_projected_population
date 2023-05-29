@@ -1,0 +1,16 @@
+The Project will tackle the following research questions using Python. 
+
+1) Is there a difference in life expectancy between city states? 
+
+2) What state has the largest increase or decrease in life expectancy from 2022 to 2050?
+
+3) Is there currently a difference in life expectancy between the most populace state NRW and abroad in Baveria. 
+
+4) Is there a difference in life expectancy between male and female from today until 2050 in Berlin?
+
+5) Does Hamburg show the same result? 
+
+6) How do all states compare to each other? 
+
+
+I choose this topic because it would be interesting to see and analyse whether or not there is a difference between states. Especially now that Germany is united since 32 years.  

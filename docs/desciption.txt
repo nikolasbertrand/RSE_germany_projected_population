@@ -4,13 +4,20 @@ The Project will tackle the following research questions using Python.
 
 2) What state has the largest increase or decrease in life expectancy from 2022 to 2050?
 
-3) Is there currently a difference in life expectancy between the most populace state NRW and abroad in Baveria. 
+3) Is there currently a difference in life expectancy between the most populated state NRW and Baveria. 
 
-4) Is there a difference in life expectancy between male and female from today until 2050 in Berlin?
+4) Is there a difference in life expectancy between male and female from today until 2050 in Berlin? Does Hamburg show the same result? 
 
-5) Does Hamburg show the same result? 
-
-6) How do all states compare to each other? 
+6) How do states where the AFD has a large voter base compare to a more liberal states? 
 
 
-I choose this topic because it would be interesting to see and analyse whether or not there is a difference between states. Especially now that Germany is united since 32 years.  
+
+Why this data set and why this topic? 
+
+Analyzing the life expectancy accross states in germany is an interesting topic, not just because of it past, especially the reunification in 1990, but also to have a glimps into the future. 
+Furthermore, there might be regional variations: east - west, rural - city, south - north, Germany - Baveria. Each state has distinct characteristics, including demographics and socioeconomic factors. 
+Examining this can provide insights into the effectiveness of local healthcare policies, lifestyle factors, and socioeconomic disparities.
+
+Finally, getting some insight into the life expectancy across German might help me in the future, iff I were to start a famility what states I better should not move to. Maybe the results will harden my prior bias that was based
+on how people voted in the last elections, maybe not. 
+

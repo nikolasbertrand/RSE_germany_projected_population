@@ -11,8 +11,8 @@ This project was created as part of the Research Software Engineering course at 
   * [Jupyternotebook](#jupyternotebook)
 * [Dataset](#dataset)
 * [Licencse](https://gitup.uni-potsdam.de/nbertrand/gleaup/-/blob/main/LICENSE) 
-
-
+* [Citation](https://gitup.uni-potsdam.de/nbertrand/gleaup/-/blob/main/CITATION.cff)
+  
 ## Problem Description
 
 ## How to get started
@@ -29,4 +29,6 @@ This project was created as part of the Research Software Engineering course at 
 
 ## Dataset
 
-## [Licencse](https://gitup.uni-potsdam.de/nbertrand/gleaup/-/blob/main/LICENSE)   
+## [MIT Licencse](https://gitup.uni-potsdam.de/nbertrand/gleaup/-/blob/main/LICENSE)  
+ 
+## [Citation](https://gitup.uni-potsdam.de/nbertrand/gleaup/-/blob/main/CITATION.cff)  

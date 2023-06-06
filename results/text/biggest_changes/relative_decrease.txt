@@ -1,0 +1,5 @@
+	Thueringen
+2022	1488.1
+2070	1133.2
+Difference	-354.89999999999986
+Percentage Change	-23.849203682548207

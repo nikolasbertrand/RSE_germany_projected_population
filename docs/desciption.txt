@@ -1,23 +1,35 @@
-The Project will tackle the following research questions using Python. 
+The Project will tackle questions regarding the projected population of each state in Germany. 
 
-1) Is there a difference in life expectancy between city states? 
-
-2) What state has the largest increase or decrease in life expectancy from 2022 to 2050?
-
-3) Is there currently a difference in life expectancy between the most populated state NRW and Baveria. 
-
-4) Is there a difference in life expectancy between male and female from today until 2050 in Berlin? Does Hamburg show the same result? 
-
-6) How do states where the AFD has a large voter base compare to a more liberal states? 
+1) Is there a difference a difference in population increase between city states from 2022 and 2070? 
+2) What state has the largest increase and decrease in population from 2022 to 2070? In absolute number as well in relation to current population.
+3) How is the general trend from 2022 and 2070 for former east German states and west German states?
+4) Is there a difference in population growth between genders from 2022 and 2070 across the whole country?  
+5) Does the same apply in east vs west?
+6) How much does the population decrease and increase in Berlin, Hamburg and Bremen for both male and female, from 2022 to 2040 and finally from 2040 to 2070? 
 
 
+# Let's Talk about Data
 
-Why this data set and why this topic? 
+The Datasets origin is from [Genesis, ]{https://www-genesis.destatis.de/genesis/online} a statistical data service provided by the German government. 
 
-Analyzing the life expectancy accross states in germany is an interesting topic, not just because of it past, especially the reunification in 1990, but also to have a glimps into the future. 
-Furthermore, there might be regional variations: east - west, rural - city, south - north, Germany - Baveria. Each state has distinct characteristics, including demographics and socioeconomic factors. 
-Examining this can provide insights into the effectiveness of local healthcare policies, lifestyle factors, and socioeconomic disparities.
+### Dataset used is
+GENESIS-Tabelle: 12421-0004, Staat population projections with moderate life expectancy and moderate net migration
 
-Finally, getting some insight into the life expectancy across German might help me in the future, iff I were to start a famility what states I better should not move to. Maybe the results will harden my prior bias that was based
-on how people voted in the last elections, maybe not. 
 
+Data is used was split in 2 seperate csv files. This one done to circumvent dataset size restriction for free users. 
+Data is recorded in time steps from 2022 then 2025 and continueing in steps of 5 years until 2070 
+Age groups are initialy of 1 year each from 0 to 101.  
+values are in 1000s for the projected population per year.
+
+## Why this topic? 
+
+There are multiple reasons why analyzing the projected population might be interesting. 
+In general this can be intersting for planning and policy development, resource allocation, healthcare and public health planning as well as economic forecasting.
+
+For Germany this might be especially interesting, not just because of it past, especially the reunification in 1990, but also to have a glimps into the future. 
+
+There might be regional variations: east - west, rural - city, south - north, Germany - Baveria. Each state has distinct characteristics, including demographics and socioeconomic factors. 
+Examining this can provide insights into the effectiveness of local policies.
+
+Finally, getting some insight into the prospective population across Germany might help me in the future, iff I were to start a famility what states I better should not move to.
+This is especially true when considering long-term property investments.

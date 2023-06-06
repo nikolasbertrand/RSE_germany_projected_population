@@ -1,0 +1,4 @@
+	Nordrhein-Westfalen
+2022	18080.5
+2070	17265.8
+Difference	-814.7000000000007

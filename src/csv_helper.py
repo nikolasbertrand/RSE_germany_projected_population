@@ -4,7 +4,7 @@ import argparse
 
 def age_group(data):
     # Remove row with a total value in the age column and convert each into int
-    # df = data[data['Age'] != 'all'].copy()
+    df = data[data['Age'] != 'all'].copy()
     df.loc[:, 'Age'] = df.loc[:, 'Age'].astype(int)
 
     # Replace every value within the year column with a Float

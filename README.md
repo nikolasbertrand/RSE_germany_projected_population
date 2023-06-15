@@ -1,4 +1,4 @@
-# German Life Expectancy Analysis using Python
+# German Population Projection Analysis using Python
 
 This project was created as part of the Research Software Engineering course at the University of Potsdam. 
 
